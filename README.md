@@ -307,6 +307,7 @@ Notes:
 ## 📚 Documentation
 
 - [Usage Guide](docs/usage.md) — Complete feature documentation
+- [Cursor Agent Integration](docs/cursor.md) — How cc-connect controls Cursor (architecture & protocol)
 - [INSTALL.md](INSTALL.md) — AI-agent-friendly installation guide
 - [config.example.toml](config.example.toml) — Configuration template
 

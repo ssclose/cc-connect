@@ -88,6 +88,7 @@ Verify your selected agent works:
 ```bash
 claude --version
 codex --version
+agent --version      # Cursor Agent CLI
 gemini --version
 iflow --version
 opencode --version
