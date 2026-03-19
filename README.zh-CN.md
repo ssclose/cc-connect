@@ -307,6 +307,7 @@ cc-connect send --file /absolute/path/to/report.pdf --image /absolute/path/to/ch
 ## 📚 文档
 
 - [使用指南](docs/usage.zh-CN.md) — 完整功能文档
+- [Cursor Agent 集成原理](docs/cursor.zh-CN.md) — cc-connect 如何操控 Cursor（架构与协议）
 - [INSTALL.md](INSTALL.md) — AI Agent 友好的安装指南
 - [config.example.toml](config.example.toml) — 配置模板
 
